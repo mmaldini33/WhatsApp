@@ -1,0 +1,5 @@
+C:\Net\Curso Net\WhatsApp\WhatsApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Net\Curso Net\WhatsApp\WhatsApp\bin\Debug\WhatsApp.exe
+C:\Net\Curso Net\WhatsApp\WhatsApp\bin\Debug\WhatsApp.pdb
+C:\Net\Curso Net\WhatsApp\WhatsApp\obj\Debug\WhatsApp.exe
+C:\Net\Curso Net\WhatsApp\WhatsApp\obj\Debug\WhatsApp.pdb
